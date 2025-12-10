@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "714a0e73fd37ae05",
+        "id": "227cd2bd18bfb5c2",
         "type": "tabs",
         "children": [
           {
-            "id": "6306a0576ec1212c",
+            "id": "80ad27045c335031",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "DataBase.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "DataBase"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "c70ef9c49272ae6d",
@@ -196,8 +192,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6306a0576ec1212c",
+  "active": "80ad27045c335031",
   "lastOpenFiles": [
+    "DataBase.base",
     "Leetcode.md",
     "未命名.md",
     "ignore.txt",
@@ -237,7 +234,6 @@
     "C++modern/并发/C++无锁并发.md",
     "C++modern/并发/C++死锁问题.md",
     "C++modern/并发/C++并发深入剖析2.md",
-    "C++modern/C++ basic.md",
     "C++modern/并发/imgs/生产消费者模型示意图.png",
     "C++modern/并发/imgs/lock_guard和unique_lock对比图.png",
     "C++modern/并发/imgs/CPU多级缓存结构图.png",
