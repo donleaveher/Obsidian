@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder != "assets"
 views:
   - type: table
     name: 表格
@@ -7,6 +10,7 @@ views:
       - file.ctime
       - file.mtime
       - file.size
+      - file.backlinks
     sort:
       - property: formula.未命名
         direction: ASC
@@ -16,8 +20,8 @@ views:
   - type: cards
     name: 视图
     filters:
-      not:
-        - file.inFolder("CSCI 1913/assets")
+      and:
+        - '!file.inFolder("assets")'
     order:
       - file.name
       - file.ctime

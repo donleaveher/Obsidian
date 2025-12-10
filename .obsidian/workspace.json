@@ -11,10 +11,13 @@
             "id": "6306a0576ec1212c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "DataBase.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "DataBase"
             }
           }
         ]
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "c70ef9c49272ae6d",
@@ -192,10 +196,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c027dbcf0ee8fd73",
+  "active": "6306a0576ec1212c",
   "lastOpenFiles": [
-    "ignore.txt",
+    "Leetcode.md",
     "未命名.md",
+    "ignore.txt",
     "Go/Gin.md",
     "Kaggle Learning/ELo 用户忠诚度评分大赛.md",
     "Go/Project.md",
@@ -237,7 +242,6 @@
     "C++modern/并发/imgs/lock_guard和unique_lock对比图.png",
     "C++modern/并发/imgs/CPU多级缓存结构图.png",
     "C++modern/并发/imgs",
-    "C++modern/并发",
     "assets/Pasted image 20251009151738.png",
     "assets/Pasted image 20251005111631.png",
     "未命名.canvas"
