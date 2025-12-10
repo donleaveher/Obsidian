@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6eb2d4f935c35c7",
+        "id": "714a0e73fd37ae05",
         "type": "tabs",
         "children": [
           {
-            "id": "2bda178720a41062",
+            "id": "6306a0576ec1212c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,10 +192,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bda178720a41062",
+  "active": "c027dbcf0ee8fd73",
   "lastOpenFiles": [
-    "Go/Gin.md",
+    "ignore.txt",
     "未命名.md",
+    "Go/Gin.md",
     "Kaggle Learning/ELo 用户忠诚度评分大赛.md",
     "Go/Project.md",
     "Kaggle Learning",
@@ -232,7 +233,6 @@
     "C++modern/并发/C++死锁问题.md",
     "C++modern/并发/C++并发深入剖析2.md",
     "C++modern/C++ basic.md",
-    "C++modern/C++ 多线程编程.md",
     "C++modern/并发/imgs/生产消费者模型示意图.png",
     "C++modern/并发/imgs/lock_guard和unique_lock对比图.png",
     "C++modern/并发/imgs/CPU多级缓存结构图.png",
