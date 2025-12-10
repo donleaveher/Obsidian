@@ -11,10 +11,14 @@
             "id": "80ad27045c335031",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Go/JSON Web Token.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "JSON Web Token"
             }
           }
         ]
@@ -194,11 +198,12 @@
   },
   "active": "80ad27045c335031",
   "lastOpenFiles": [
+    "Go/JSON Web Token.md",
+    "Go/Gin.md",
     "DataBase.base",
     "Leetcode.md",
     "未命名.md",
     "ignore.txt",
-    "Go/Gin.md",
     "Kaggle Learning/ELo 用户忠诚度评分大赛.md",
     "Go/Project.md",
     "Kaggle Learning",
@@ -237,7 +242,6 @@
     "C++modern/并发/imgs/生产消费者模型示意图.png",
     "C++modern/并发/imgs/lock_guard和unique_lock对比图.png",
     "C++modern/并发/imgs/CPU多级缓存结构图.png",
-    "C++modern/并发/imgs",
     "assets/Pasted image 20251009151738.png",
     "assets/Pasted image 20251005111631.png",
     "未命名.canvas"
