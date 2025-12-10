@@ -3,7 +3,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
-
+assets/
 # 忽略操作系统文件
 .DS_Store
 Thumbs.db
