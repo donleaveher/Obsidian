@@ -1,0 +1,11 @@
+{
+  "accentColor": "#4154fb",
+  "theme": "obsidian",
+  "cssTheme": "Cybertron",
+  "baseFontSize": 18,
+  "translucency": true,
+  "interfaceFontFamily": "Didot",
+  "textFontFamily": "Arial Unicode MS",
+  "monospaceFontFamily": "Google Sans Code",
+  "baseFontSizeAction": true
+}

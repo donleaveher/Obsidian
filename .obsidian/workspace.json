@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "2d14ae48de14df6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6eb2d4f935c35c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bda178720a41062",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f565232094422277",
+    "type": "split",
+    "children": [
+      {
+        "id": "792cbef9ac4bed76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5933f0cb60b406",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a07c2f8a46eca909",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "c027dbcf0ee8fd73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "c70ef9c49272ae6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a07b5ae872a5e4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddf7f412bfcc3be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SDL与太空战机/C++游戏编程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "C++游戏编程 的反向链接列表"
+            }
+          },
+          {
+            "id": "b35e52fc78c68bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stanford Machine learning/Week1/Lecture 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Lecture 1 的出链列表"
+            }
+          },
+          {
+            "id": "1dc90dca6e0852e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "14ba55d2655f92bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kaggle Learning/ELo 用户忠诚度评分大赛.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ELo 用户忠诚度评分大赛 的大纲"
+            }
+          },
+          {
+            "id": "bd335735ba959a55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "b80ada97c117b42e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "2bda178720a41062",
+  "lastOpenFiles": [
+    "Go/Gin.md",
+    "未命名.md",
+    "Kaggle Learning/ELo 用户忠诚度评分大赛.md",
+    "Go/Project.md",
+    "Kaggle Learning",
+    "Go",
+    "mysql/Mysql.md",
+    "mysql/Mysql Operation.md",
+    "mysql/Mysql Operation-mindmap.md",
+    "mysql",
+    "Yolo/目标检测.md",
+    "Yolo",
+    "python/Python project for Data Science/Project for Data Science.md",
+    "Neural Network/AlexNet.md",
+    "assets/Pasted image 20251114030520.png",
+    "assets/Pasted image 20251114030354.png",
+    "assets/Pasted image 20251114023258.png",
+    "python/API/APIs.md",
+    "Linux",
+    "未命名.base",
+    "assets/Pasted image 20251113104948.png",
+    "Neural Network",
+    "未命名 1.base",
+    "机器学习算法/Stanford Machine learning/Lecture 1.md",
+    "机器学习算法/Random Forest.md",
+    "assets/Pasted image 20251020145224.png",
+    "C++modern/并发/C++11原子操作深入.md",
+    "C++modern/并发/C++并发深入剖析1.md",
+    "C++modern/并发/C++并发编程基础入门.md",
+    "python/Python package/Python package.md",
+    "python/Some Missing Knowledge.md",
+    "python/python数据结构.md",
+    "C++modern/并发/C++11原子操作入门.md",
+    "C++modern/并发/C++异步编程基础入门.md",
+    "C++modern/并发/C++无锁并发.md",
+    "C++modern/并发/C++死锁问题.md",
+    "C++modern/并发/C++并发深入剖析2.md",
+    "C++modern/C++ basic.md",
+    "C++modern/C++ 多线程编程.md",
+    "C++modern/并发/imgs/生产消费者模型示意图.png",
+    "C++modern/并发/imgs/lock_guard和unique_lock对比图.png",
+    "C++modern/并发/imgs/CPU多级缓存结构图.png",
+    "C++modern/并发/imgs",
+    "C++modern/并发",
+    "assets/Pasted image 20251009151738.png",
+    "assets/Pasted image 20251005111631.png",
+    "未命名.canvas"
+  ]
+}

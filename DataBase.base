@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.path
+      - file.ctime
+      - file.mtime
+      - file.size
+    sort:
+      - property: formula.未命名
+        direction: ASC
+    columnSize:
+      file.ctime: 199
+      file.mtime: 234
+  - type: cards
+    name: 视图
+    filters:
+      not:
+        - file.inFolder("CSCI 1913/assets")
+    order:
+      - file.name
+      - file.ctime
+      - file.links
+      - file.folder
+    imageAspectRatio: 1
